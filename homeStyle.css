@@ -1,0 +1,31 @@
+body {
+    background-color: midnightblue;
+  }
+  
+  .mainTitle {
+    color: WhiteSmoke;
+    font-family: "Helvetica";
+    font-weight: bold;
+    font-size: 5vw;
+    text-align: center;
+  }
+  
+  .interactiveBox {
+    background-color: #051628;
+    margin: 0 auto;
+    height: 50vw;
+    width: 75vw;
+  }
+  
+  #clock {
+    color: WhiteSmoke;
+    font-size: 5vw;
+    text-align: right;
+  }
+  
+  .credits {
+    text-font: 16px;
+    font-family: "Helvetica";
+    text-align: right;
+    margin-top: 10vw;
+  }
